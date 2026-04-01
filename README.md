@@ -156,15 +156,7 @@ Generate monster sprites, overworld characters, and tilesets directly from the e
 
 ## Pricing
 
-| Tier | Price | Includes |
-|------|-------|----------|
-| **Lite** | $99 | Core engine DLL, 668 monsters, public SDK API |
-| **Basic** | $299 | Lite + Essentials Importer, Art Studio, editor tools |
-| **Pro** | $499 | Basic + Quest System, advanced AI, full editor tooling |
-| **Online** | $999 | Pro + Nakama MMORPG layer with 20 online services |
-| **Source** | $2,499 | Full C# / C++ source code with architecture documentation |
-
-Available on the **Unity Asset Store** and **Fab by Epic Games**.
+Pricing will be announced soon. Join the waitlist at [openmon.io](https://www.openmon.io) to get early access pricing.
 
 ---
 
@@ -206,7 +198,7 @@ Building a monster-catching RPG from scratch typically requires:
 | PE import | Yes | No | No | No | No | No |
 | Multiplayer | 20 services | No | Basic | Basic | Manual | Manual |
 | Targeting | Monster RPGs | General RPGs | General | General | General | General |
-| Price | $99-$2,499 | $80 | $100 | Free | Engine free | Engine free |
+| Price | See website | $80 | $100 | Free | Engine free | Engine free |
 
 ---
 
@@ -250,7 +242,7 @@ Every one of these studios built their engine systems from scratch, spending 12-
 
 ### Is there a free version?
 
-OpenMon is a commercial product, but the documentation, demo project, and API reference are all free at [openmon.io](https://www.openmon.io). The Lite tier starts at $99, which includes the core engine and 668 fully-configured monsters.
+OpenMon is a commercial product, but the documentation, demo project, and API reference are all free at [openmon.io](https://www.openmon.io). Pricing will be announced soon -- join the waitlist for early access.
 
 ### How is OpenMon different from Pokemon Champions?
 
