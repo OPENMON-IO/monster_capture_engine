@@ -266,6 +266,58 @@ The documentation at [openmon.io/docs](https://www.openmon.io/docs/) is availabl
 
 ---
 
+## The Monster-Catching Game Revolution
+
+The monster-catching genre is exploding. Developers, communities, and players have proven time and again that the demand for creature-catching games is massive and growing. OpenMon exists because this revolution needs a production-grade engine.
+
+### Kickstarter Proves the Market
+
+The crowdfunding numbers speak for themselves:
+
+- **Elestrals Awakened** raised **$1.4M on Kickstarter** in 2025, making it the most-funded monster-catching game of the year. That is $1.4 million in demand for a genre most publishers still ignore.
+- **Monsterpatch**, a cozy monster collector, hit **1,500% of its funding goal**. Players are starving for wholesome creature-catching games.
+- **Tomo: Endless Blue** brings open-world voxel exploration to the monster genre and found its audience on Kickstarter before writing a single line of marketing copy.
+
+These are not outliers. They are proof that the monster-catching market is large, passionate, and willing to pay for quality.
+
+### Fan Games Prove the Need
+
+The Pokemon fan game community is one of the most prolific in all of gaming. These projects have millions of downloads and years of development behind them:
+
+- **Pokemon Reborn** -- one of the most ambitious fan games ever made, with millions of downloads, 18 gyms, a dark storyline, and field effects that changed how the community thinks about battle design
+- **Pokemon Insurgence** -- mega evolutions, delta species, a complete Pokedex, millions of downloads
+- **Pokemon Rejuvenation** -- a spiritual successor to Reborn with its own massive following
+- **Pokemon Unbound** -- GBA-style with modern QoL features, widely considered one of the best ROM hacks ever made
+- **Pokemon Infinite Fusion** -- generates **200,000+ monthly searches** and lets players fuse any two Pokemon together, with community-contributed sprites numbering in the hundreds of thousands
+- **Pokemon Uranium** -- nine years of development, a full original region with 150+ original fakemon, then **DMCA'd by Nintendo** despite never using a single line of Game Freak's code
+- **Pokemon Xenoverse** -- built by an Italian team, complete with DLCs, fully voice-acted, one of the most polished fan games in existence
+- **Pokemon Unbreakable Ties** -- set in the tropical Akebia region with Gen 9 support, pushing the boundaries of what Pokemon Essentials can do
+- **Pokemon SoulStones 2: Time Wardens** -- widely praised as setting a new bar for fan games in 2026
+- **Pokemon Realidea System** -- another standout demonstrating the genre's creative depth
+
+Every single one of these developers faces the same problem: **they cannot sell their games commercially**. Years of work, millions of players, zero revenue. They are locked into Pokemon Essentials on RPG Maker XP, using copyrighted assets, with no path to the market.
+
+**OpenMon solves this.** Import your Pokemon Essentials project, replace the IP with your own original creatures, and publish on Steam. Your maps, your mechanics, your events, your stats -- they all transfer. The only thing that changes is the IP. The game you built becomes the game you own.
+
+### Commercial Monster-Catching Games Prove the Scale
+
+The commercial market for monster-catching games is worth billions:
+
+- **Temtem** (Crema) -- **$500M+ franchise** value, proved that a non-Pokemon monster catcher can succeed on PC and console
+- **Palworld** (Pocketpair) -- **$400M+ revenue in 2024 alone**, the fastest-selling game on Steam with creature-catching mechanics at its core
+- **Coromon** (TRAGsoft) -- indie success on Steam with retro pixel art, demonstrating that small teams can compete
+- **Cassette Beasts** (Bytten Studio) -- critically acclaimed, fusion-based monster system, strong sales on PC and Switch
+- **Nexomon** (VEWO Interactive) -- successful on mobile, PC, and console with two entries in the franchise
+- **Monster Sanctuary** (Moi Rai Games) -- metroidvania hybrid that proved the genre can be mixed with other gameplay styles
+- **Siralim Ultimate** -- **1,200+ monsters**, deep mechanics, a devoted player base
+- **Aethermancer** -- upcoming title generating significant community interest
+
+Every one of these studios built their engine systems from scratch, spending 12-18 months on battle systems, stat formulas, type charts, and encounter logic before they could start making their actual game. **OpenMon provides that same foundation ready to use** -- so you can focus on what makes YOUR game unique: your art style, your story, your world, your mechanics.
+
+The monster-catching revolution is here. The tools to join it are ready. [Get started with OpenMon](https://www.openmon.io).
+
+---
+
 ## Technical Specifications
 
 | Spec | Unity 6 | Unreal Engine 5 |
