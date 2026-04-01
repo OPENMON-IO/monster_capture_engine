@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.openmon.io/static/images/openmon-logo.jpeg" alt="OpenMon Logo" width="120">
+  <img src="https://i.ibb.co/39DwqgQQ/Chat-GPT-Image-1-abr-2026-18-41-41.png" alt="OpenMon Logo" width="120">
 </p>
 
 <h1 align="center">OpenMon — Monster Capture Engine</h1>
